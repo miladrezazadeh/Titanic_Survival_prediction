@@ -4,5 +4,6 @@ This project is aiming to build a machine learning model to predict the survival
 
 This project is divided into two steps:
 
-Step I: Extracting patterns and correlation between features and our target(Preprocessing)\n.
+Step I: Extracting patterns and correlation between features and our target(Preprocessing).
+
 Step II : Building an accurate ML model.
